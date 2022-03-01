@@ -1,0 +1,16 @@
+id: P617332FF
+initial_creation_type: input
+source_metadata:
+  title: Vajrapāṇi Series
+  language: bo
+  description: 'A series of texts related to the deity Vajrapāṇi (phyag na rdo rje),
+    who embodies the power and strength of all the buddhas:'
+  volume:
+    c74445d082c24a33a70e70edb1a76a64:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      parent: Dhāraṇī
+    afbc63e52dcd4d66b819a4471aa9aee4:
+      title: Daily Practice of Dorje Gotrab
+      parent: Dorje Gotrab
+created_at: '2022-03-01T06:31:26.901981'
+last_modified_at: '2022-03-01T06:31:26.901984'
